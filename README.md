@@ -29,7 +29,7 @@ Execution
     b. The higher the parameters are, the more the image will be blur.
 
 
-```python
-portrait = ColorBlock("inputs/person5.jpg", 15, 53, 80)
-```
+    ```python
+    portrait = ColorBlock("inputs/person5.jpg", 15, 53, 80)
+    ```
 6. Run the block Run the Project
