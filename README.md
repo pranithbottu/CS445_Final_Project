@@ -1,8 +1,5 @@
 # CS445_Final_Project
 
-Introduction
--------------
-
 Requirements
 ------------
 - <a href="https://www.python.org/downloads/">Python</a>
