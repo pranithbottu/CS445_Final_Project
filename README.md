@@ -1,4 +1,4 @@
-# CS445_Final_Project
+# Color_Block_Portraits
 
 Requirements
 ------------
